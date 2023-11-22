@@ -1,0 +1,8 @@
+header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(43, 41, 41);
+    color: darkcyan;
+    font-size: x-large;
+    text-decoration: none ;
+}

@@ -1,0 +1,12 @@
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(43, 41, 41);
+    color: darkcyan;
+    text-decoration: none ;
+    padding:0;
+}
+img{
+    width: 300px;
+}
